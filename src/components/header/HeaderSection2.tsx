@@ -57,7 +57,7 @@ const HeaderSection2 = () => {
             alt="gift"
             className="me-1"
           />
-          Get 50% off on Vault theme. Limited time offer!
+          Get 10% off on all our IT Services and Saas Products. Limited time offer!
         </div>
         <div
           className={`rv-37-menubar to-be-fixed ${
